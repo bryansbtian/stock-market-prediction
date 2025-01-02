@@ -18,7 +18,7 @@ The goal of this project is to predict stock prices using historical data and ma
 - **Libraries and Frameworks**:
   - Data Processing: `pandas`, `numpy`
   - Visualization: `matplotlib`, `seaborn`
-  - Machine Learning: `scikit-learn`, `XGBoost`
+  - Machine Learning: `scikit-learn`
 - **Data Source**: `yfinance` for stock market data retrieval
 - **Development Environment**: Jupyter Notebook
 
