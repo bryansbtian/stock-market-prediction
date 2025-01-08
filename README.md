@@ -29,9 +29,3 @@ The goal of this project is to predict stock prices using historical data and ma
 3. **Model Training**: Use machine learning models to identify trends and forecast stock prices.
 4. **Evaluation**: Measure accuracy and optimize the model with metrics like RMSE and R².
 5. **Prediction**: Generate stock market forecasts for informed decision-making.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/stock-market-prediction.git
